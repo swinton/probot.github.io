@@ -1,3 +1,7 @@
+before_install:
+  # https://github.com/rubygems/rubygems/pull/2065
+  - gem update --system
+  - gem --version
 before_script: "./script/bootstrap"
 script: "./script/cibuild"
 language: ruby
