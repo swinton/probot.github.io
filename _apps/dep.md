@@ -8,19 +8,21 @@ screenshots:
 authors:
 - ahmed-taj
 repository: ahmed-taj/dep
-host: https://dep-bot.herokuapp.com
-stars: 11
-updated: 2017-12-29 18:47:33 UTC
-installations: 11
+host: https://probot-dep.now.sh
+stars: 30
+updated: 2018-04-26 13:03:17 UTC
+installations: 49
 organizations:
 - probot
+- Laravel-Backpack
+- thefrontside
+- timvideos
 - tunnckoCore
-- laughedelic
-- allejo
-- Skelware
-- legalweb
-- philoserf
-- aVengineers
+- TECLIB
+- cmfcmf
+- mithro
+- flyve-mdm
+- ahmed-taj
 ---
 
 <p align="center">
@@ -31,9 +33,9 @@ A dependency manager for your Pull Requests.
 
 ## Usage
 
-1. Browse to [GitHub Apps - dep][apps]
-2. Accept the permissions
-3. Allow access to repositories
+1.  Browse to [GitHub Apps - dep][apps]
+2.  Accept the permissions
+3.  Allow access to repositories
 
 If you want to update a pull request dependencies write:
 
@@ -57,12 +59,12 @@ For best results, enable branch protection (in the repository's settings) and re
 Thanks goes to these wonderful people ([emoji key](https://github.com/kentcdodds/all-contributors#emoji-key)):
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+
 <table>
 <tr>
 <th align="center"><a href="https://ahmed.sd"><img src="https://avatars1.githubusercontent.com/u/12673605?v=4" width="100px;" style="max-width:100%;"><br><sub><b>Ahmed T. Ali</b></sub></a><br><a href="https://goo.gl/sJKF5H" title="Blogposts"><g-emoji alias="memo" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" ios-version="6.0"><img class="emoji" alt=":memo:" height="20" width="20" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png"></g-emoji></a> <a href="https://github.com/ahmed-taj/dep/commits?author=ahmed-taj" title="Code"><g-emoji alias="computer" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" ios-version="6.0"><img class="emoji" alt=":computer:" height="20" width="20" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png"></g-emoji></a> <a href="https://github.com/ahmed-taj/dep/commits?author=ahmed-taj" title="Documentation"><g-emoji alias="book" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4d6.png" ios-version="6.0"><img class="emoji" alt=":book:" height="20" width="20" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4d6.png"></g-emoji></a> <a href="https://github.com/ahmed-taj/dep/commits?author=ahmed-taj" title="Tests"><g-emoji alias="warning" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/26a0.png" ios-version="6.0"><img class="emoji" alt=":warning:" height="20" width="20" src="https://assets-cdn.github.com/images/icons/emoji/unicode/26a0.png"></g-emoji></a></th>
 <th align="center"><a href="https://github.com/JasonEtco"><img src="https://avatars1.githubusercontent.com/u/10660468?v=4" width="100px;" style="max-width:100%;"><br><sub><b>Jason Etcovitch</b></sub></a><br><a href="https://twitter.com/JasonEtco" title="Answering Questions"><g-emoji alias="speech_balloon" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4ac.png" ios-version="6.0"><img class="emoji" alt=":speech_balloon:" height="20" width="20" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4ac.png"></g-emoji></a> <a href="https://github.com/probot/ideas/issues/1" title="Ideas, Planning, &amp; Feedback"><g-emoji alias="thinking" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f914.png" ios-version="9.1"><img class="emoji" alt=":thinking:" height="20" width="20" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f914.png"></g-emoji></a></th>
 </tr></table>
-
 
 This project follows the [all-contributors](https://github.com/kentcdodds/all-contributors) specification. Contributions of any kind welcome!
 

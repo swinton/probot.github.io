@@ -8,18 +8,21 @@ screenshots:
 authors:
 - ahmed-taj
 repository: ahmed-taj/commitlint-bot
-host: https://commitlint.herokuapp.com
-stars: 31
-updated: 2017-12-18 04:49:01 UTC
-installations: 10
+host: https://probot-commitlint.now.sh
+stars: 61
+updated: 2018-04-28 00:10:53 UTC
+installations: 39
 organizations:
-- db-migrate
 - caarlos0
+- TECLIB
+- ajsb85
 - algolia
-- azz
+- flyve-mdm
 - ahmed-taj
-- aVengineers
-- caiquecastro
+- upfrontIO
+- blackxored
+- CharlyJazz
+- glpi-project
 ---
 
 <p align="center">
@@ -31,9 +34,9 @@ and sets an appropriate status check.
 
 ## Usage
 
-1. Browse to [GitHub Apps - commitlint][apps]
-2. Accept the permissions
-3. Allow access to repositories
+1.  Browse to [GitHub Apps - commitlint][apps]
+2.  Accept the permissions
+3.  Allow access to repositories
 
 On the next pull request, a status check from `commitlint` will appear:
 

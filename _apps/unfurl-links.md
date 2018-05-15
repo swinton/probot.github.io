@@ -8,20 +8,20 @@ authors:
 - bkeepers
 repository: probot/unfurl
 host: http://probot-unfurl.herokuapp.com
-stars: 15
-updated: 2017-10-29 13:53:48 UTC
-installations: 32
+stars: 32
+updated: 2018-05-15 00:48:30 UTC
+installations: 75
 organizations:
 - reactiveui
 - probot
 - goreleaser
+- GameServerManagers
 - caarlos0
 - wangzuo
-- xcodeswift
+- thefrontside
+- jahirfiquitiva
 - timvideos
 - getantibody
-- tunnckoCore
-- mwarkentin
 ---
 
 When a link is found in a comment, this app will add more information to the bottom of the comment about the link.

@@ -7,22 +7,22 @@ screenshots:
 authors:
 - agonzalez0515
 - Techforchange
-stars: 98
+stars: 131
 repository: hoodiehq/first-timers-bot
-updated: 2017-12-21 22:47:41 UTC
+updated: 2018-05-15 04:33:53 UTC
 host: https://first-timers-bot.now.sh
-installations: 203
+installations: 238
 organizations:
 - jekyll
+- videojs
 - processing
 - Moya
+- semantic-release
 - hoodiehq
 - skywinder
-- semantic-release
 - mikaelbr
 - terkelg
 - gr2m
-- db-migrate
 ---
 
 # first-timers-bot
