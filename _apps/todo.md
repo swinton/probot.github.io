@@ -8,20 +8,20 @@ authors:
 - JasonEtco
 repository: JasonEtco/todo
 host: https://todo-github-app.now.sh
-stars: 121
-updated: 2018-05-15 04:34:38 UTC
-installations: 185
+stars: 366
+updated: 2019-06-30 17:40:23 UTC
+installations: 626
 organizations:
+- mikeal
+- nteract
+- eclipse
 - mas-cli
+- ahmadawais
 - thibmaek
-- heinrichreimer
 - Laravel-Backpack
 - Radarr
+- heinrichreimer
 - caarlos0
-- SpoonX
-- ahmadnassri
-- icco
-- timvideos
 ---
 ## Usage
 

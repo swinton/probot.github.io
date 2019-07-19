@@ -7,22 +7,22 @@ screenshots:
 - https://user-images.githubusercontent.com/173/27765705-93f94940-5e7e-11e7-8527-3a91bb64ca70.png
 authors:
 - bkeepers
-stars: 375
+stars: 734
 repository: probot/stale
-updated: 2018-05-07 15:19:07 UTC
+updated: 2019-07-15 09:10:38 UTC
 host: https://probot-stale.herokuapp.com
-installations: 694
+installations: 1145
 organizations:
-- atom
 - facebook
 - sebastianbergmann
-- Shopify
+- atom
 - Homebrew
-- Semantic-Org
-- nwjs
+- Shopify
+- thedaviddias
 - prettier
-- gohugoio
-- ethereum
+- NARKOZ
+- nwjs
+- parse-community
 ---
 
 Automatically close stale Issues and Pull Requests that tend to accumulate during a project.

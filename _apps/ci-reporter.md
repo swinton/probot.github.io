@@ -8,20 +8,20 @@ authors:
 - JasonEtco
 repository: JasonEtco/ci-reporter
 host: https://ci-reporter-etc.herokuapp.com
-stars: 33
-updated: 2018-05-15 12:58:40 UTC
-installations: 53
+stars: 24
+updated: 2019-01-27 23:36:23 UTC
+installations: 209
 organizations:
 - ant-design
-- explosion
-- semantic-release
+- ReactiveX
+- veggiemonk
+- poteto
+- vueComponent
+- styleguidist
 - thibmaek
-- probot
+- fossasia
 - octokit
-- offu
-- Radarr
-- gillesdemey
-- gr2m
+- watson-developer-cloud
 ---
 ## Usage
 

@@ -10,23 +10,22 @@ screenshots:
 - https://i.imgur.com/ldrHDzZ.png
 authors:
 - tunnckoCore
-- olstenlarck
-repository: tunnckoCore/triage-new-issues
+repository: tunnckoCoreLabs/triage-new-issues
 host: https://triage-new-issues.now.sh
-stars: 7
-updated: 2018-05-08 11:41:00 UTC
-installations: 39
+stars: 16
+updated: 2019-07-14 10:40:22 UTC
+installations: 109
 organizations:
+- pypa
+- playframework
+- thepracticaldev
 - CachetHQ
 - Semantic-Org
+- adonisjs
+- Azure
 - Laravel-Backpack
+- lagom
 - Robdel12
-- xcodeswift
-- thefrontside
-- jahirfiquitiva
-- tunnckoCore
-- eXist-db
-- red-eclipse
 ---
 
 

@@ -8,12 +8,20 @@ authors:
 - Ikuyadeu
 repository: Ikuyadeu/similar-code-searcher
 host: https://similer-code-searcher.glitch.me
-stars: 1
-updated: 2018-04-17 04:36:07 UTC
-installations: 5
+stars: 6
+updated: 2018-12-28 09:22:39 UTC
+installations: 18
 organizations:
-- revad-ueda
+- xSploited
+- chrisyue
+- njzjz
+- alejandro5042
+- duncdrum
+- hemanth22
+- r37r0m0d3l
 - Ikuyadeu
+- byteshiva
+- frilox042
 ---
 
 # Similar code Searcher
